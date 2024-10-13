@@ -17,4 +17,4 @@ The goal of this project is to develop a personalized friend recommendation syst
 #### https://arxiv.org/abs/1611.07308
 
 ## How to run it:
-### 
+### CMD: docker build . -t deeplearn:homework
