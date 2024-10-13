@@ -1,5 +1,6 @@
 # Friend recommendation with graph neural networks
-## Team:REX-DINO-AI 
+## Team:
+### REX-DINO-AI 
 ## Members of the team
 ### Benedek Sági - ECSGGY
 ### Árkossy Máte - 
