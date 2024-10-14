@@ -10,7 +10,7 @@ The goal of this project is to develop a personalized friend recommendation syst
 
 ## Functions of files:
 ### Dockerfile
-Initialzing
+Initialzing the software environment of the project
 ### main.py
 Including the data acquisition, data preparation.
 ### requirements.txt
