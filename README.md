@@ -14,6 +14,7 @@ Initialzing
 ### main.py
 Including the data acquisition, data preparation.
 ### requirements.txt
+Installing the libries of the project
 ## Related works:
 ### Github:
 #### https://github.com/aditya-grover/node2vec
