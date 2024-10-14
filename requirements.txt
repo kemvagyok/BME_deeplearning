@@ -1,0 +1,6 @@
+torch
+torch_geometric
+pandas
+networkx
+jupyterlab
+sklearn
